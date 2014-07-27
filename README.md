@@ -38,6 +38,7 @@ To run the script, source run_analysis.R. You will then see the output as follow
 Process
 
 For both the test and train datasets, produce an initial dataset:
+
 1. Extract the mean and standard deviation features (listed in CodeBook.md, section 'Extracted Features'). This is the values table.
 2. 2. Get the list of activities.
 3. Put the activity labels (not numbers) into the values table.
