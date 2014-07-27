@@ -39,7 +39,7 @@ Process
 
 For both the test and train datasets, produce an initial dataset:
 1. Extract the mean and standard deviation features (listed in CodeBook.md, section 'Extracted Features'). This is the values table.
-2. Get the list of activities.
+2. 2. Get the list of activities.
 3. Put the activity labels (not numbers) into the values table.
 4. Get the list of subjects.
 5. Put the subject IDs into the values table.
